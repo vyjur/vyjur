@@ -7,7 +7,7 @@
       <h3 style="margin-top:18px;">Personal Info 🚀</h3>
       <ul style="list-style:none; padding:0; margin:0;">
         <li><b>💼 Current Position:</b> Graduate @ Equinor ASA</li>
-        <li><b>🎓 Background:</b> MSc in Artificial Intelligence, NTNU</li>
+        <li><b>🎓 Background:</b> MSc in AI, NTNU</li>
         <li><b>🗣️ Languages:</b> Norwegian, English, Vietnamese</li>
         <li><b>💻 Programming:</b> Python, C#, Rust, Java</li>
         <li><b>📫 Contact:</b> 
