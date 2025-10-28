@@ -1,7 +1,7 @@
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:14px;">
   <tr>
     <td style="width:500px; vertical-align:top;">
-      <img src="./github-metrics.svg" alt="GitHub Metrics" style="width:100%; border-radius:8px;">
+      <img src="./metrics.classic.svg" alt="GitHub Metrics" style="width:100%; border-radius:8px;">
     </td>
     <td style="padding-left:16px; vertical-align:top; border-left:1px solid grey;">
       <h3 style="margin-top:18px;">Personal Info 🚀</h3>
